@@ -8,3 +8,6 @@ Lo aplicamos creando clases que representaban lo que necesitábamos para el prog
 
 3. ¿De qué manera el uso de GitHub facilitó el trabajo colaborativo en equipo? Den un ejemplo concreto
 GitHub nos facilito porque cada quien pudo trabajar a su ritmo sin chocar con lo del otro. Por ejemplo, uno se puso con la clase Viaje y el otro con RegistroViajes y el menú en main.py. Cada quien lo hizo en su propia rama y después, con un pull request, juntamos los cambios en la rama principal. Un ejemplo concreto fue cuando ya estaba lista la clase Viaje y el otro agregó la de RegistroViajes en su archivo. Luego hizo un git pull y se mezclaron los cambios sin problema. Eso evitó que anduviéramos pasándonos archivos por WhatsApp o correo y que se perdieran avances.
+
+Julio Alberto Funes Alfaro
+Carmen Xiomara Hernandez Castillo
